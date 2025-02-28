@@ -1,15 +1,25 @@
 # Project Title
 
-Building AI course project
+Helpful AI for deaf people - Building AI course project 
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Deaf people who don't use the sign language because they haven't been teached, read lips to understand what a person is saying and are often limited in expressing themselves because of a basic vocabulary and a particular sound of the voice. 
+An AI application tool could help deaf people with limited understanding and limited use of spoken/written language to develop greater knowledge and consequently greater self-confidence.
+This idea has been developed for deaf people, but may be suitable also for hard-of-hearing and similar.
 
 
 ## Background
 
+Given that deafness prevents a natural acquirement of spoken language, deaf children suffer from linguistic deprivation if not exposed to accessible input.
+Some deaf people do not read, write and talk correctly because of this, not depending on intellectual limitations.
+Common prejudice is that deaf people are also mute, but unless there are vocal organ pathologies, they can speak. 
+A particular modulation of the voice is due to the difficulty of reproducing sounds without being able to hear them.
+My idea of AI for deaf people is an app to be used on portable devices such as tablets, smartphones, smartwatches and (why not) augmented reality glasses that can help developing the use of the voice and gradually give information to a specific word or sentence.
+
+
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+
 
 This is how you make a list, if you need one:
 * problem 1
@@ -18,6 +28,11 @@ This is how you make a list, if you need one:
 
 
 ## How is it used?
+
+Think of an app for learning a foreign language and make it accessible to deaf people to better learn their primary language: this kind of apps are based on the sound of the words that people say and are marked as correct or uncorrect before moving on to the next level. 
+To make it functional for deaf people, a video of a person who shows how to move the mouth and tongue to better spell words could be useful, if not even fundamental.
+Furthermore, this app could simultanously transcribe the words being said by the interlocutor, translating them at the level of knowledge achieved.
+To help the deaf person learn new information, AI could suggest more information on a given topic (e.g. a place, a historical fact, etc.), always in an understandable way.
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
@@ -48,6 +63,9 @@ main()
 
 
 ## Data sources and AI methods
+
+Since I am not an advanced AI user or creator, I cannot include data sources or AI methods.
+And, by the way, my source of inspiration is real human life with all its pros and cons.
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
@@ -59,15 +77,18 @@ If you need to use links, here's an example:
 
 ## Challenges
 
+The main challange is to make a reality this idea of mine, which is useful in theory.
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
 ## What next?
 
+I'm not so technically skilled to present my project with codes and AI generated images or videos, so I am counting on the people who will read this to eventually make a AI tool that I think could help many people.
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 
 
 ## Acknowledgments
 
+There are no credits to list at the time of publication on GitHub.
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
