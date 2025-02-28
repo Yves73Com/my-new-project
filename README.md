@@ -1,6 +1,6 @@
-# Project Title
+# Helpful AI for deaf people
 
-Helpful AI for deaf people - Building AI course project 
+Building AI course project 
 
 ## Summary
 
