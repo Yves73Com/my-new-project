@@ -4,93 +4,45 @@ Building AI course project
 
 ## Summary
 
-Deaf people who don't use the sign language because they haven't been teached, read lips to understand what a person is saying and are often limited in expressing themselves because of a basic vocabulary and a particular sound of the voice. 
+Deaf people who don't use the sign language because they haven't been taught, read lips to understand what a person is saying and are often limited in expressing themselves because of a basic vocabulary and a particular sound of the voice. 
 An AI application tool could help deaf people with limited understanding and limited use of spoken/written language to develop greater knowledge and consequently greater self-confidence.
-This idea has been developed for deaf people, but may be suitable also for hard-of-hearing and similar.
+This idea has been developed for deaf people, but may also be suitable for hard-of-hearing individuals and those with similar conditions.
 
 
 ## Background
 
-Given that deafness prevents a natural acquirement of spoken language, deaf children suffer from linguistic deprivation if not exposed to accessible input.
-Some deaf people do not read, write and talk correctly because of this, not depending on intellectual limitations.
-Common prejudice is that deaf people are also mute, but unless there are vocal organ pathologies, they can speak. 
+Given that deafness prevents the natural acquirement of spoken language, deaf children suffer from linguistic deprivation if not exposed to accessible input.
+Some deaf people do not read, write and talk correctly because of this, not due to intellectual limitations.
+A common prejudice is that deaf people are also mute, but unless there are vocal organ pathologies, they can speak. 
 A particular modulation of the voice is due to the difficulty of reproducing sounds without being able to hear them.
-My idea of AI for deaf people is an app to be used on portable devices such as tablets, smartphones, smartwatches and (why not) augmented reality glasses that can help developing the use of the voice and gradually give information to a specific word or sentence.
-
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+My idea of AI for deaf people is an app to be used on portable devices such as tablets, smartphones, smartwatches and (why not) augmented reality glasses that can help develop the voice and gradually provide information to a specific word or sentence.
 
 
 ## How is it used?
 
 Think of an app for learning a foreign language and make it accessible to deaf people to better learn their primary language: this kind of apps are based on the sound of the words that people say and are marked as correct or uncorrect before moving on to the next level. 
-To make it functional for deaf people, a video of a person who shows how to move the mouth and tongue to better spell words could be useful, if not even fundamental.
-Furthermore, this app could simultanously transcribe the words being said by the interlocutor, translating them at the level of knowledge achieved.
-To help the deaf person learn new information, AI could suggest more information on a given topic (e.g. a place, a historical fact, etc.), always in an understandable way.
-
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+To make it functional for deaf people, a video of a person showing how to move the mouth and tongue to better pronounce words could be useful, if not even fundamental.
+Furthermore, this app could simultanously transcribe the words being said by the interlocutor (the person who talks to a deaf), translating them at the level of knowledge achieved.
+To help the deaf person learn more, AI could suggest more information on a given topic (e.g. a place, a historical fact, etc.), always in an understandable way.
 
 
 ## Data sources and AI methods
 
 Since I am not an advanced AI user or creator, I cannot include data sources or AI methods.
-And, by the way, my source of inspiration is real human life with all its pros and cons.
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+And, by the way, my source of inspiration is real human life with its pros and cons.
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
 
 The main challange is to make a reality this idea of mine, which is useful in theory.
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+
 
 ## What next?
 
-I'm not so technically skilled to present my project with codes and AI generated images or videos, so I am counting on the people who will read this to eventually make a AI tool that I think could help many people.
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+I'm not so technically skilled to present my project with codes and AI-generated images or videos, so I am counting on the people who will read this to bring their own vision and suggestions to eventually make an AI tool that I believe could help many people.
+
 
 
 ## Acknowledgments
 
-There are no credits to list at the time of publication on GitHub.
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+There are no credits to list at the time of publishing on GitHub.
